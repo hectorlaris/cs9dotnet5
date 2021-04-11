@@ -1,0 +1,16 @@
+C:\Price\cs9dotnet5\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.exe
+C:\Price\cs9dotnet5\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.deps.json
+C:\Price\cs9dotnet5\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.json
+C:\Price\cs9dotnet5\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.runtimeconfig.dev.json
+C:\Price\cs9dotnet5\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.dll
+C:\Price\cs9dotnet5\Chapter01\HelloCS\bin\Debug\net5.0\ref\HelloCS.dll
+C:\Price\cs9dotnet5\Chapter01\HelloCS\bin\Debug\net5.0\HelloCS.pdb
+C:\Price\cs9dotnet5\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csprojAssemblyReference.cache
+C:\Price\cs9dotnet5\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Price\cs9dotnet5\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfoInputs.cache
+C:\Price\cs9dotnet5\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.AssemblyInfo.cs
+C:\Price\cs9dotnet5\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Price\cs9dotnet5\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.dll
+C:\Price\cs9dotnet5\Chapter01\HelloCS\obj\Debug\net5.0\ref\HelloCS.dll
+C:\Price\cs9dotnet5\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.pdb
+C:\Price\cs9dotnet5\Chapter01\HelloCS\obj\Debug\net5.0\HelloCS.genruntimeconfig.cache
